@@ -1,2 +1,2 @@
 # distributed-database
-Implementation of distributed and parallel databases operations like fragmentation, parallel sort, range query etc.
+The primary goal of the project is to implement some of key concepts in distributed and parallel databases systems. For example operations like fragmentation, parallel sort, range query etc.
