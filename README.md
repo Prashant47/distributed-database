@@ -33,4 +33,4 @@ Some initial ideas would be adding few more queries in query processor .!
 
 ## Issues
 
-If you find any issue, bug, error or any unhandles exception, feel free to (report one)[https://github.com/Prashant47/distributed-database/issues/new]
+If you find any issue, bug, error or any unhandles exception, feel free to [report one](https://github.com/Prashant47/distributed-database/issues/new)
